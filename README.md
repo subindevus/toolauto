@@ -1,4 +1,4 @@
-## 👑・Features
+## 👑 Features 👑
 
 - Auto Hunt
 - Auto Battle
