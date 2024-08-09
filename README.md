@@ -46,4 +46,7 @@ sh termux-setup.sh
 
 cd toolauto
 nano config.json
+
+# Run
+python main.py
 ```
