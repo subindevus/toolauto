@@ -4,7 +4,7 @@
 - Auto Battle
 - Auto Pray
 - Auto solve hcaptcha
-Note: Do not automatically solve captcha images from the bot on discord
+- Note: Do not automatically solve captcha images from the bot on discord
   
 ## ✨ Get Token ✨
 
