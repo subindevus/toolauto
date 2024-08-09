@@ -1,0 +1,11 @@
+{
+    "Token": "TOKEN_SELFBOT",
+    "Channel": "CHANNEL_ID",
+    "Prefix": "PREFIX_OWO",
+    "Key": "API_KEY_2CAPTCHA", 
+    "Hunt": true,
+    "Battle": true,
+    "Pray": true,
+    "Quote": true
+}
+
