@@ -39,11 +39,11 @@ m)
 # Install:
 
 apt update -y && apt upgrade -y && pkg install wget
-wget https://raw.githubusercontent.com/mid0aria/owofarmbot/main/termux-setup.sh
+wget https://github.com/subindevus/toolauto/blob/main/termux-setup.sh
 sh termux-setup.sh
 
 # Edit config.json:
 
-cd owofarmbot
+cd toolauto
 nano config.json
 ```
