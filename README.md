@@ -63,6 +63,7 @@ notepad config.json # On windows
 nano config.json # On linux, can also use any other preferred file writing software
 
 # Run the bot:
+pip install -r requirements.txt
 python main.py
 
 ```
@@ -82,6 +83,7 @@ cd toolauto
 nano config.json
 
 # Run
+pip install -r requirements.txt
 python main.py
 
 ```
