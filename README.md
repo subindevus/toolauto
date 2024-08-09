@@ -67,7 +67,7 @@ python main.py
 
 ```
 
-### 📱・Android / iOS (Termux)
+### Android / IOS (Termux)
 
 ```bash
 # Install:
