@@ -35,33 +35,36 @@ m)
 6. Click on the bookmark named token finder.
 7. A new page will open, the text in the page will be your discord account token.
 
-## 🔗・Required Links
+## 🔗 Required Links 🔗
 
 [Python](https://www.python.org/)<br>
 [Terminal](https://apps.microsoft.com/detail/9n0dx20hk701)<br>
 [Tool Auto](https://github.com/subindevus/toolauto)
 
-## 🎈・Installation
+## 🎈 Installation 🎈
 
-### 🖥️・Windows / Linux
+### Windows / Linux
 
 ```bash
-# Check Node.js version:
-node -v
+# Check python version:
+
+python -v
 
 # Clone the files with git:
-git clone https://github.com/Mid0aria/owofarmbot
-# Optionally you can also download from github at https://github.com/Mid0aria/owofarmbot/archive/refs/heads/main.zip
+
+git clone https://github.com/subindevus/toolauto
 
 # Enter into the cloned directory:
-cd owofarmbot
+cd toolauto
 
-# Configure the bot
+# Configure the bot:
+
 notepad config.json # On windows
 nano config.json # On linux, can also use any other preferred file writing software
 
 # Run the bot:
-node bot.js
+python main.py
+
 ```
 
 ### 📱・Android / iOS (Termux)
@@ -80,4 +83,5 @@ nano config.json
 
 # Run
 python main.py
+
 ```
